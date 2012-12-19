@@ -29,7 +29,7 @@ $_['entry_sort_order']       = 'Sắp xếp:';
 $_['entry_status']           = 'Tình trạng:';
 $_['entry_layout']           = 'Cách trình bày:';
 
-// Error
+// Error 
 $_['error_warning']          = 'Cảnh báo: Hãy kiểm tra cẩn thận hình thức cho các lỗi!';
 $_['error_permission']       = 'Cảnh báo: Bạn không được phép sửa đổi chuyên mục!';
 $_['error_name']             = 'Tên Danh mục phải lớn hơn 2 và ít hơn 32 ký tự!';

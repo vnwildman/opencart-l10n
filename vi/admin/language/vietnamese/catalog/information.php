@@ -16,8 +16,9 @@ $_['entry_title']       = 'Tiêu đề:';
 $_['entry_description'] = 'Mô tả:';
 $_['entry_store']       = 'Gian hàng:';
 $_['entry_keyword']     = 'Từ khóa SEO:';
+$_['entry_bottom']      = 'Bottom:<br/><span class="help">Hiển thị tại cuối phần chân trang.</span>';
 $_['entry_status']      = 'Tình trạng:';
-$_['entry_sort_order']  = 'Phân loại đơn hàng:<br/><span class="help">Đặt thành -1 để ẩn từ danh sách</span>';
+$_['entry_sort_order']  = 'Thứ tự sắp xếp:';
 $_['entry_layout']      = 'Trang hiển thị:';
 
 // Error

@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Quản lý hình ảnh';
+$_['heading_title']    = 'Quản lý ảnh';
 
 // Text
 $_['text_uploaded']    = 'Tập tin của bạn đã được tải lên!';

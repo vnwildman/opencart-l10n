@@ -19,7 +19,6 @@ $_['entry_rate']        = 'Mức thuế:';
 $_['entry_based']       = 'Áp dụng cho:';
 $_['entry_geo_zone']    = 'Địa bàn:';
 $_['entry_priority']    = 'Ưu tiên:';
-$_['button_add_rule']   = 'Thêm thuế';
 
 // Error
 $_['error_permission']  = 'Cảnh báo: Bạn không có quyền sửa đổi loại thuế!';

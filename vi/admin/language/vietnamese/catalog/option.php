@@ -29,8 +29,8 @@ $_['column_action']       = 'Hành động';
 $_['entry_name']         = 'Tên tùy chọn:';
 $_['entry_type']         = 'Kiểu dữ liệu:';
 $_['entry_value']        = 'Giá trị của tùy chọn:';
+$_['entry_image']        = 'Hình:';
 $_['entry_sort_order']   = 'Sắp xếp:';
-$_['entry_image']   	 = 'Hình:';
 
 // Error
 $_['error_permission']   = 'Cảnh báo: Bạn không có quyền sửa đổi các tùy chỉnh!';

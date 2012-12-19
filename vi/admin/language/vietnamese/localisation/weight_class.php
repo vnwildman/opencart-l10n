@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Đơn vị tính trọng lượng';
+$_['heading_title']    = 'Đơn vị tính khối lượng';
 
 // Text
 $_['text_success']     = 'Bạn đã sửa đổi đơn vị tính trọng lượng thành công!';

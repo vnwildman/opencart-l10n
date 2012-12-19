@@ -5,9 +5,9 @@ $_['heading_title']      = 'Nhà sản xuất';
 // Text
 $_['text_success']       = 'Bạn vừa thay đổi nhà sản xuất thành công!';
 $_['text_default']       = 'Mặc định';
-$_['text_image_manager'] = 'Quản lý hình';
+$_['text_image_manager'] = 'Quản lý ảnh';
 $_['text_browse']        = 'Chọn hình';
-$_['text_clear']         = 'Xóa hình';
+$_['text_clear']         = 'Xóa ảnh';
 $_['text_percent']       = 'Phần trăm';
 $_['text_amount']        = 'Cố định số lượng';
 

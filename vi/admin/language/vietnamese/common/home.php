@@ -21,7 +21,7 @@ $_['text_year']                     = 'Trong năm';
 $_['text_order']                    = 'Tổng đơn hàng';
 $_['text_customer']                 = 'Tổng khách hàng';
 
-// Column
+// Column 
 $_['column_order']                  = 'Mã đơn hàng';
 $_['column_customer']               = 'Tên khách hàng';
 $_['column_status']                 = 'Trạng thái';
