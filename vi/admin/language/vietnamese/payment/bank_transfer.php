@@ -2,7 +2,7 @@
 // Heading
 $_['heading_title']      = 'Chuyển khoản ngân hàng';
 
-// Text
+// Text 
 $_['text_payment']       = 'Thanh toán';
 $_['text_success']       = 'Bạn đã sửa đổi thành công!';
 

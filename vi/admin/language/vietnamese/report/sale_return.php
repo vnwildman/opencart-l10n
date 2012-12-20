@@ -13,7 +13,6 @@ $_['text_all_status']   = 'Tất cả trạng thái';
 $_['column_date_start'] = 'Từ ngày';
 $_['column_date_end']   = 'Đến ngày';
 $_['column_returns']    = 'Số lượng trả lại';
-$_['column_products']   = 'Số lượng sản phẩm';
 
 // Entry
 $_['entry_date_start']  = 'Từ ngày:';

@@ -1,5 +1,5 @@
 <?php
-// Heading
+// Heading  
 $_['heading_title']       = 'Mã giảm giá';
 
 // Text
@@ -38,6 +38,7 @@ $_['entry_status']        = 'Trạng thái:';
 
 // Error
 $_['error_permission']    = 'Cảnh báo: Bạn không có quyền thay đổi mã giảm giá!';
+$_['error_exists']        = 'Cảnh báo: Cuống vé đã dùng rồi!';
 $_['error_name']          = 'Tên giảm giá phải từ 3 đến 64 ký tự!';
 $_['error_code']          = 'Mã phải từ 3 đến 10 ký tự!';
 ?>
