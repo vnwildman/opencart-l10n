@@ -26,6 +26,6 @@ $_['entry_bad']         = 'Kém';
 $_['error_permission']  = 'Cảnh báo: Bạn không được phép sửa đổi!';
 $_['error_product']     = 'Chưa có tên sản phẩm!';
 $_['error_author']      = 'Tên tác giả phải lớn hơn 3 và nhỏ hơn 64 ký tự!';
-$_['error_text']        = 'Nội dung đánh giá phải ít nhất 1 ký tự.!';
+$_['error_text']        = 'Nội dung đánh giá phải ít nhất 1 ký tự!';
 $_['error_rating']      = 'Bạn chưa cho đánh giá!';
 ?>

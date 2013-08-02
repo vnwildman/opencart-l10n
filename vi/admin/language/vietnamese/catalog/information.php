@@ -16,12 +16,12 @@ $_['entry_title']       = 'Tiêu đề:';
 $_['entry_description'] = 'Mô tả:';
 $_['entry_store']       = 'Gian hàng:';
 $_['entry_keyword']     = 'Từ khóa SEO:';
-$_['entry_bottom']      = 'Bottom:<br/><span class="help">Hiển thị tại cuối phần chân trang.</span>';
+$_['entry_bottom']      = 'Chân:<br/><span class="help">Hiển thị tại cuối phần chân trang.</span>';
 $_['entry_status']      = 'Tình trạng:';
 $_['entry_sort_order']  = 'Thứ tự sắp xếp:';
 $_['entry_layout']      = 'Trang hiển thị:';
 
-// Error
+// Error 
 $_['error_warning']     = 'Cảnh báo: Hãy kiểm tra cẩn thận các lỗi!';
 $_['error_permission']  = 'Cảnh báo: Bạn không được phép sửa đổi thông tin!';
 $_['error_title']       = 'Tiêu đề phải lớn hơn 3 và nhỏ hơn 64 ký tự!';

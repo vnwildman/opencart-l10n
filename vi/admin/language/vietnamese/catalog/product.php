@@ -2,7 +2,7 @@
 // Heading
 $_['heading_title']          = 'Sản phẩm';
 
-// Text
+// Text  
 $_['text_success']           = 'Bạn đã thay đổi sản phẩm thành công!';
 $_['text_plus']              = '+';
 $_['text_minus']             = '-';
